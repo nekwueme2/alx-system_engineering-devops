@@ -1,2 +1,2 @@
 #!/bin/baeh
-tr -d "c" "C"
+tr -d "cC"
