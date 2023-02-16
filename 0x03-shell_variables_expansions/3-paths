@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((~echo $PATG | grep -0 ":" | wv -l' +1))
+echo $((~echo $PATH | grep -0 ":/" | wc -l' +1))
